@@ -10,6 +10,7 @@
 )](https://linkedin.com/in/mohamed-el-amine-meghni-1684a41a3) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UCWjsxeQlGZmBMsQ9g6XKV-Q) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213549136722) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghni.mohamed.el.amine@gmail.com)
 
 
 ### 🧰Languages and Tools and Frameworks:
