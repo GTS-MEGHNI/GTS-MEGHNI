@@ -14,7 +14,7 @@
 
 ### 🧰Languages and Tools and Frameworks:
  <div>
-  <img width="30" src="https://static-00.iconduck.com/assets.00/phpstorm-icon-2048x2048-rjjm74g9.png" alt="phpstorm" title="phpstorm"/>
+  <img width="40" src="https://static-00.iconduck.com/assets.00/phpstorm-icon-2048x2048-rjjm74g9.png" alt="phpstorm" title="phpstorm"/>
   <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" alt="php (elephpant)" title="php (elephpant)"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
   <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/>
