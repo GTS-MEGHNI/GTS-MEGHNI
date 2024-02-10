@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Laravel projects and refining my API development skills.<br>👯 Open to collaborating on Laravel or API-related projects.<br>🤝 Seeking help with database performance optimization in Laravel and exploring advanced API design.<br>🌱 Learning advanced Laravel techniques and exploring new possibilities in API architecture.<br>💬 Ask me about Laravel, API design, or PHP development.<br>⚡ Fun Fact: I enjoy outdoor activities and experimenting with new recipes.
+🔭 Currently working on Laravel and Vue.js projects projects and refining my Fullstack development skills.<br>👯 Open to collaborating on Laravel or API-related projects.<br>🤝 Seeking help with database performance optimization in Laravel and exploring advanced API design.<br>🌱 Learning advanced Laravel techniques and exploring new possibilities in API architecture.<br>💬 Ask me about Laravel, API design, or PHP development.<br>⚡ Fun Fact: I enjoy outdoor activities and experimenting with new recipes.
 
 
 ## 🌐 Socials:
