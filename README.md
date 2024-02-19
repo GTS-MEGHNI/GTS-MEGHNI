@@ -39,14 +39,3 @@
   <img width="40" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/>
 </div>
 </div>
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GTS-MEGHNI&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GTS-MEGHNI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GTS-MEGHNI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=GTS-MEGHNI&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
