@@ -1,9 +1,9 @@
 # 💫 About Me
-🔭 Currently working as a **Senior Backend Engineer at Sadeem Informatique**, owning backend architecture, DevOps infrastructure, and engineering practices across 5+ production environments.
-👯 Open to collaborating on scalable backend systems, API design, CI/CD automation, or Linux/VPS infrastructure projects.
-🤝 Actively deepening expertise in high-availability system design, container orchestration, and multi-environment deployment strategies.
-🌱 Expanding into advanced solution architecture, microservices patterns, and database performance optimization at scale.
-💬 Ask me about Laravel, REST API design, Docker, Jenkins/GitHub Actions CI/CD pipelines, or Linux VPS infrastructure.
+🔭 Currently working as a **Senior Backend Engineer at Sadeem Informatique**, owning backend architecture, DevOps infrastructure, and engineering practices across 5+ production environments.  
+👯 Open to collaborating on scalable backend systems, API design, CI/CD automation, or Linux/VPS infrastructure projects.  
+🤝 Actively deepening expertise in high-availability system design, container orchestration, and multi-environment deployment strategies.  
+🌱 Expanding into advanced solution architecture, microservices patterns, and database performance optimization at scale.  
+💬 Ask me about Laravel, REST API design, Docker, Jenkins/GitHub Actions CI/CD pipelines, or Linux VPS infrastructure.  
 ⚡ Fun Fact: I enjoy outdoor adventures and love experimenting with new recipes when away from the terminal.
 
 ## 🌐 Socials:
