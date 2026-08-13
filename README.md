@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0E27,50:00F5D4,100:0A0E27&text=MOHAMED%20EL%20AMINE%20MEGHNI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Engineer%20·%20DevOps%20·%20Solution%20Architecture&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0E27,50:00F5D4,100:0A0E27&text=MOHAMED%20EL%20AMINE%20MEGHNI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20·%20System%20Design%20·%20Architecture%20·%20Applied%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=Building+reliable+systems+since+2018;11+VPS+environments+%C2%B7+~95%25+uptime;Laravel+%7C+REST+APIs+%7C+CI%2FCD+%7C+Docker;Open+to+remote+roles+worldwide+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=I+design+systems%2C+not+stacks;11+production+environments+%C2%B7+~95%25+uptime;Architecture+%C2%B7+Reliability+%C2%B7+Applied+AI;Open+to+remote+roles+worldwide+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,9 +28,10 @@ role: Senior Backend Engineer @ Sadeem Informatique
 based_in: Algiers, Algeria 🇩🇿
 experience: 5+ years
 focus:
-  - Laravel / REST API architecture
-  - DevOps & production infrastructure (11 VPS, CI/CD, monitoring)
-  - Solution architecture for multi-tier systems
+  - System design & service architecture
+  - Production reliability at scale (11 environments, CI/CD, observability)
+  - Applied AI & data-intensive systems
+principle: tools are chosen per constraint, not per résumé
 languages: [Arabic, French, English]
 status: open to full-time remote roles worldwide
 ```
@@ -43,53 +44,67 @@ status: open to full-time remote roles worldwide
 
 | 🕐 5+ | 🖥️ 11 | 📈 ~95% | ✍️ 8 |
 |:---:|:---:|:---:|:---:|
-| **years experience** | **VPS environments managed** | **uptime maintained** | **technical articles written** |
+| **years experience** | **production environments** | **uptime maintained** | **technical articles written** |
 
 </div>
 
-Deployment cycles cut from ~2 hours to minutes by replacing manual SSH/FTP releases with automated CI/CD (Jenkins, GitHub Actions, Slack alerts). Mentored 5+ junior engineers on backend practices, Git workflows, and code review.
+Deployment cycles cut from ~2 hours to minutes by replacing manual release processes with automated, reversible pipelines and alerting. Mentored 5+ junior engineers on design reasoning, version control workflows, and code review.
 
 <br/>
 
-## ⟡ Tech Stack
+## ⟡ Foundations
+
+> I optimize for problems, not stacks. Languages and frameworks are
+> implementation details, picked per constraint and replaced when they
+> stop serving the system.
+
+**System Design.** Capacity and failure modes first: consistency/availability tradeoffs, caching strategy, queue-based decoupling, backpressure, idempotency, and a clear path from one box to many.
+
+**Software Architecture.** Domain-driven boundaries, layered and hexagonal separation, API contracts as the stable surface, multitenancy, and incremental migration of legacy systems that can't afford downtime.
+
+**Reliability & Operations.** SLO thinking, observability across metrics/logs/traces, automated delivery with safe rollback, infrastructure as code, post-incident follow-through.
+
+**Applied AI & Data.** Model training and evaluation, feature and retrieval pipelines, LLM integration, plus the unglamorous production half: latency budgets, inference cost, drift, and guardrails.
+
+**Core Engineering.** Data structures and algorithms, relational and analytical data modeling, concurrency, networking, security (authn/authz, OWASP), performance profiling.
 
 <div align="center">
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,ts,nestjs&theme=dark"/>
+<sub>Currently expressed through PHP, TypeScript, Python, SQL & columnar stores, containers and Linux. The reasoning transfers.</sub>
 
-**Databases & Cache**
+</div>
+
+<details>
+<summary><sub>tools I've shipped production systems with</sub></summary>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark"/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,ts,nestjs,python,mysql,postgres,redis,docker,nginx,linux,bash,git,githubactions,jenkins&theme=dark"/>
+
+<br/><br/>
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0A0E27?style=flat-square&logo=microsoftsqlserver&logoColor=00F5D4)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-0A0E27?style=flat-square&logo=clickhouse&logoColor=00F5D4)
-
-**DevOps & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,git,githubactions,jenkins&theme=dark"/>
 ![Ansible](https://img.shields.io/badge/Ansible-0A0E27?style=flat-square&logo=ansible&logoColor=00F5D4)
-
-**AI / Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas&theme=dark"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=postman,vscode&theme=dark"/>
 ![Swagger](https://img.shields.io/badge/Swagger-0A0E27?style=flat-square&logo=swagger&logoColor=00F5D4)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0E27?style=flat-square&logo=tensorflow&logoColor=00F5D4)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0E27?style=flat-square&logo=scikitlearn&logoColor=00F5D4)
 
 </div>
 
+</details>
+
 <br/>
 
-## ⟡ Focus Areas
+## ⟡ How I Work
 
 <div align="center">
 
-|  🔌 API Design  |  🏗️ Solution Architecture  |  ⚙️ DevOps & CI/CD  |  📊 Observability  |
+| 🎯 Constraints first | 🧭 Boundaries over layers | 🔁 Reversible by default | 📊 Measured, not assumed |
 |:---:|:---:|:---:|:---:|
-| Scalable REST & GraphQL APIs | Multi-tier, high-availability systems | Docker, Jenkins, GitHub Actions | Beszel, Uptime Kuma, ClickHouse |
+| Requirements and failure modes before technology | Clear contracts between owned domains | Every change ships with a way back | Decisions backed by metrics and traces |
 
 </div>
 
@@ -97,10 +112,10 @@ Deployment cycles cut from ~2 hours to minutes by replacing manual SSH/FTP relea
 
 ## ⟡ Selected Work
 
-- **Insurance Platform Upgrade** — Re-architected a .NET/React platform's CMS and payment integration, redeployed on new infrastructure for reliability and performance.
-- **TM Agency — Credit & Benefits Platform** — Laravel/PostgreSQL backend + backoffice for enterprise credit allocation and beneficiary management.
-- **Internal Observability Tool** — NestJS, React, and TypeScript log-tracking system using ClickHouse, PostgreSQL, and Redis at scale.
-- **Quality Control Dashboard** — Multitenant Laravel system with Redis caching, built for horizontal scaling.
+- **Insurance Platform Modernization.** Re-architected a legacy platform's content and payment layers behind stable service boundaries, then migrated it onto new infrastructure without disrupting live traffic.
+- **Enterprise Credit & Benefits Platform.** Designed the data model and API surface for credit allocation and beneficiary management, with an administrative backoffice built on the same contracts.
+- **Distributed Observability System.** Log ingestion and tracking pipeline built for high write volume, separating hot operational storage from analytical columnar storage.
+- **Multitenant Quality Control System.** Tenant-isolated architecture with a caching layer designed for horizontal scaling under uneven per-tenant load.
 
 <div align="center">
 
