@@ -1,161 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0E27,50:00F5D4,100:0A0E27&text=MOHAMED%20EL%20AMINE%20MEGHNI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20·%20System%20Design%20·%20Architecture%20·%20Applied%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:262B30,100:1F3FBF&text=MOHAMED%20EL%20AMINE%20MEGHNI&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Engineering%20Leader%20·%20Backend%20%26%20Platform&descAlignY=66&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=I+design+systems%2C+not+stacks;11+production+environments+%C2%B7+~95%25+uptime;Architecture+%C2%B7+Reliability+%C2%B7+Applied+AI;Open+to+remote+roles+worldwide+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Martian+Mono&weight=500&size=18&duration=2800&pause=900&color=1F3FBF&center=true&vCenter=true&width=760&lines=CTO+%40+Sadeem+Informatique;Architecture+%C2%B7+Development+%C2%B7+Integration+%C2%B7+DevOps;Deploys+cut+from+~2+h+to+minutes;Open+to+full-time+remote+roles+worldwide)](https://mohamedelaminemeghni.com)
 
 <br/>
 
-<a href="https://mohamedelaminemeghni.com"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-0A0E27?style=for-the-badge&logoColor=00F5D4&labelColor=0A0E27&color=0A0E27" height="36"/></a>
-<a href="https://github.com/GTS-MEGHNI"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0A0E27" height="36"/></a>
-<a href="https://www.linkedin.com/in/mohamed-el-amine-meghni-1684a41a3/"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00F5D4&labelColor=0A0E27" height="36"/></a>
-<a href="mailto:meghni.mohamed.el.amine@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=00F5D4&labelColor=0A0E27" height="36"/></a>
-<a href="https://wa.me/213549136722"><img src="https://img.shields.io/badge/WhatsApp-0A0E27?style=for-the-badge&logo=whatsapp&logoColor=00F5D4&labelColor=0A0E27" height="36"/></a>
+<a href="https://mohamedelaminemeghni.com"><img src="https://img.shields.io/badge/Portfolio-262B30?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" height="34"/></a>
+<a href="https://mohamedelaminemeghni.com/resume.pdf"><img src="https://img.shields.io/badge/Résumé_(PDF)-262B30?style=for-the-badge&logo=readdotcv&logoColor=FFFFFF" height="34"/></a>
+<a href="https://www.linkedin.com/in/mohamed-el-amine-meghni-1684a41a3/"><img src="https://img.shields.io/badge/LinkedIn-262B30?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="34"/></a>
+<a href="mailto:meghni.mohamed.el.amine@gmail.com"><img src="https://img.shields.io/badge/Email-262B30?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="34"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=GTS-MEGHNI&color=00F5D4&style=flat-square&label=PROFILE+VIEWS"/>
+<br/><br/>
+
+![Status](https://img.shields.io/badge/●_available-full--time_remote-14A44D?style=flat-square&labelColor=262B30)
+![Location](https://img.shields.io/badge/Algiers,_Algeria-UTC+1-4F5961?style=flat-square&labelColor=262B30)
+![Languages](https://img.shields.io/badge/speaks-Arabic_·_French_·_English-4F5961?style=flat-square&labelColor=262B30)
 
 </div>
 
 <br/>
 
-## ⟡ Signal
+## Profile
 
-```yaml
-engineer: Mohamed El Amine Meghni
-role: Senior Backend Engineer @ Sadeem Informatique
-based_in: Algiers, Algeria 🇩🇿
-experience: 5+ years
-focus:
-  - System design & service architecture
-  - Production reliability at scale (11 environments, CI/CD, observability)
-  - Applied AI & data-intensive systems
-principle: tools are chosen per constraint, not per résumé
-languages: [Arabic, French, English]
-status: open to full-time remote roles worldwide
+CTO at **Sadeem Informatique**, where I lead architecture, development, integration and DevOps. I write the technical specifications and design the architecture of the company's projects, own the Linux servers and the CI/CD pipelines that ship to them, review the team's code and mentor its developers.
+
+<div align="center">
+
+| 5+ yrs | 2 | 5+ | 5 |
+|:---:|:---:|:---:|:---:|
+| production backends | solution architectures led | developers mentored | open-source packages |
+
+</div>
+
+<br/>
+
+## Watchtower
+
+An observability platform I built at Sadeem to monitor exceptions, errors and logs from the solutions we deliver to clients in production.
+
+```
+client solutions ──► SDK ──► Watchtower (NestJS · TypeScript) ──► ClickHouse · PostgreSQL · Redis
+                                      │
+                         engineers ◄── React UI
 ```
 
+Client solutions report through the company's SDK. Watchtower writes high-volume logs to ClickHouse, and engineers monitor and triage errors from a React interface.
+
 <br/>
 
-## ⟡ Track Record
+## Infrastructure
+
+I took on DevOps at Sadeem as its products grew: the servers, the deploys and the monitoring are mine to run.
+
+- **Deploy pipeline.** Manual SSH/FTP releases replaced by Jenkins and GitHub Actions pipelines with Slack alerts, cutting deploy time from **~2 hours to minutes**.
+- **Multi-tier architecture.** Designed for two major projects: application, cache, filesystem and database on separate layers, with pre-production isolated from production.
+- **Monitoring.** Every production Linux VPS environment watched with Beszel and Uptime Kuma.
+
+<br/>
+
+## Open source
+
+| Package | What it does | Stack |
+|:---|:---|:---|
+| [**nestjs-satim**](https://github.com/GTS-MEGHNI/nestjs-satim) | CIB and Edahabia card payments through Algeria's SATIM gateway, for NestJS | NestJS · TypeScript |
+| [**laravel-satim**](https://github.com/GTS-MEGHNI/laravel-satim) | The same SATIM payment lifecycle behind a Laravel-native API | Laravel · PHP |
+| [**laravel-essentials-kit**](https://github.com/GTS-MEGHNI/laravel-essentials-kit) | API boilerplate generated into your app as code you own | Laravel · PHP |
+| [**laravel-captcha**](https://github.com/GTS-MEGHNI/laravel-captcha) | Image CAPTCHA generation and validation, no third-party service | Laravel · PHP |
+| [**laravel-captcha-js**](https://github.com/GTS-MEGHNI/laravel-captcha-js) | Client for laravel-captcha: image display and proof-of-work solving | TypeScript · React · Next.js |
+
+<br/>
+
+## Experience
+
+- **CTO** · Sadeem Informatique · *Apr 2024 – present*
+- **Lead Backend Developer** · Felhanout (contract) · *Dec 2023 – Jan 2024*
+- **Backend Engineer** · sihaclub.com, jexury.com, Numisky (freelance) · *May 2020 – Apr 2022*
+- **AI Engineer** · CERIST Research Center · *Apr 2021 – Jul 2022*
+
+Client work includes an insurance platform upgrade and migration to new infrastructure, a credit and benefits platform, a multitenant quality control system, loan transaction and QHSE APIs, and more. Full list on [mohamedelaminemeghni.com](https://mohamedelaminemeghni.com/#projects).
+
+<br/>
+
+## Stack
+
+**Backend** · Laravel, NestJS, PHP, Node.js, REST API, GraphQL, PostgreSQL, MySQL, SQL Server, ClickHouse, Redis, WebSockets
+
+**DevOps & Infra** · Docker, Docker Compose, Nginx, Linux, CI/CD, GitHub Actions, Jenkins, Ansible, VPS management, SSL/TLS, Bash, Beszel, Uptime Kuma
+
+**Architecture** · Solution architecture, API design, database design, system design, performance optimization, security hardening, test-driven development
 
 <div align="center">
 
-| 🕐 5+ | 🖥️ 11 | 📈 ~95% | ✍️ 8 |
-|:---:|:---:|:---:|:---:|
-| **years experience** | **production environments** | **uptime maintained** | **technical articles written** |
+<br/>
+
+<img src="https://skillicons.dev/icons?i=laravel,php,nestjs,nodejs,ts,postgres,mysql,redis,docker,nginx,linux,bash,githubactions,jenkins,ansible&theme=dark"/>
 
 </div>
 
-Deployment cycles cut from ~2 hours to minutes by replacing manual release processes with automated, reversible pipelines and alerting. Mentored 5+ junior engineers on design reasoning, version control workflows, and code review.
-
 <br/>
 
-## ⟡ Foundations
-
-> I optimize for problems, not stacks. Languages and frameworks are
-> implementation details, picked per constraint and replaced when they
-> stop serving the system.
-
-**System Design.** Capacity and failure modes first: consistency/availability tradeoffs, caching strategy, queue-based decoupling, backpressure, idempotency, and a clear path from one box to many.
-
-**Software Architecture.** Domain-driven boundaries, layered and hexagonal separation, API contracts as the stable surface, multitenancy, and incremental migration of legacy systems that can't afford downtime.
-
-**Reliability & Operations.** SLO thinking, observability across metrics/logs/traces, automated delivery with safe rollback, infrastructure as code, post-incident follow-through.
-
-**Applied AI & Data.** Model training and evaluation, feature and retrieval pipelines, LLM integration, plus the unglamorous production half: latency budgets, inference cost, drift, and guardrails.
-
-**Core Engineering.** Data structures and algorithms, relational and analytical data modeling, concurrency, networking, security (authn/authz, OWASP), performance profiling.
+## Contact
 
 <div align="center">
 
-<sub>Currently expressed through PHP, TypeScript, Python, SQL & columnar stores, containers and Linux. The reasoning transfers.</sub>
-
-</div>
-
-<details>
-<summary><sub>tools I've shipped production systems with</sub></summary>
+Tell me what you are building and what keeps breaking. I reply within a day, in English, French or Arabic.
 
 <br/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,ts,nestjs,python,mysql,postgres,redis,docker,nginx,linux,bash,git,githubactions,jenkins&theme=dark"/>
+<a href="mailto:meghni.mohamed.el.amine@gmail.com"><img src="https://img.shields.io/badge/meghni.mohamed.el.amine@gmail.com-1F3FBF?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="38"/></a>
 
 <br/><br/>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-0A0E27?style=flat-square&logo=microsoftsqlserver&logoColor=00F5D4)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-0A0E27?style=flat-square&logo=clickhouse&logoColor=00F5D4)
-![Ansible](https://img.shields.io/badge/Ansible-0A0E27?style=flat-square&logo=ansible&logoColor=00F5D4)
-![Swagger](https://img.shields.io/badge/Swagger-0A0E27?style=flat-square&logo=swagger&logoColor=00F5D4)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0E27?style=flat-square&logo=tensorflow&logoColor=00F5D4)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0E27?style=flat-square&logo=scikitlearn&logoColor=00F5D4)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:262B30,100:1F3FBF&section=footer" width="100%"/>
 
-</div>
-
-</details>
-
-<br/>
-
-## ⟡ How I Work
-
-<div align="center">
-
-| 🎯 Constraints first | 🧭 Boundaries over layers | 🔁 Reversible by default | 📊 Measured, not assumed |
-|:---:|:---:|:---:|:---:|
-| Requirements and failure modes before technology | Clear contracts between owned domains | Every change ships with a way back | Decisions backed by metrics and traces |
-
-</div>
-
-<br/>
-
-## ⟡ Selected Work
-
-- **Insurance Platform Modernization.** Re-architected a legacy platform's content and payment layers behind stable service boundaries, then migrated it onto new infrastructure without disrupting live traffic.
-- **Enterprise Credit & Benefits Platform.** Designed the data model and API surface for credit allocation and beneficiary management, with an administrative backoffice built on the same contracts.
-- **Distributed Observability System.** Log ingestion and tracking pipeline built for high write volume, separating hot operational storage from analytical columnar storage.
-- **Multitenant Quality Control System.** Tenant-isolated architecture with a caching layer designed for horizontal scaling under uneven per-tenant load.
-
-<div align="center">
-
-*→ more projects on [mohamedelaminemeghni.com](https://mohamedelaminemeghni.com)*
-
-</div>
-
-<br/>
-
-## ⟡ GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GTS-MEGHNI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&ring_color=00F5D4"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTS-MEGHNI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00F5D4&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=GTS-MEGHNI&theme=tokyonight&hide_border=true&background=0A0E27&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GTS-MEGHNI&theme=tokyo-night&hide_border=true&bg_color=0A0E27&color=00F5D4&line=00F5D4&point=ffffff&area=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
-<br/>
-
-## ⟡ Let's Build Something
-
-<div align="center">
-
-Available for full-time remote roles worldwide.
-
-<a href="mailto:meghni.mohamed.el.amine@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-00F5D4?style=for-the-badge&logoColor=0A0E27&labelColor=00F5D4&color=00F5D4" height="40"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A0E27,50:00F5D4,100:0A0E27&section=footer" width="100%"/>
-
-<sub>© 2026 Mohamed El Amine Meghni · Designed & built with care</sub>
+<sub>© 2026 Mohamed El Amine Meghni · Algiers, Algeria</sub>
 
 </div>
